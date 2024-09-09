@@ -11,4 +11,6 @@ Please compile the SimpleClient Server with the -lncurses and -pthread tags.
 ```
 g++ SimpleClient.cpp -lncurses -pthread
 ```
-The Server file must be ran first for the Client to attach to it.
+The Server file must be run first for the Client to attach to it.
+
+This program was initially created on a Rocky-Linux image.
